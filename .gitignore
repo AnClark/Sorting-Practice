@@ -1,0 +1,5 @@
+# C binary file
+*.out
+
+# Python cache
+__pycache__
